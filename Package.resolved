@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SPMDepsLibraryA",
+        "repositoryURL": "https://github.com/bamx23/spm-deps-library-a.git",
+        "state": {
+          "branch": null,
+          "revision": "c5c271e579c9e5938d2aafa4c9ea31022b281d86",
+          "version": "1.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
